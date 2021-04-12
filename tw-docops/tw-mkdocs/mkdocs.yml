@@ -5,6 +5,7 @@ nav:
   - Experience: experience.md
   - Skills: skills.md
   - Past Work: past-work.md
+  - Testing: testing.md 
   
 
 theme:
