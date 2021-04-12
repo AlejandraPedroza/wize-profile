@@ -1,7 +1,11 @@
-site_name: Wizeline MkDocs Template
+site_name: Alejandra's WizeOs Profile
 nav:
   - Home: index.md
-  - About: about.md
+  - Education: education.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Past Work: past-work.md
+  
 
 theme:
   name: material
